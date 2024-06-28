@@ -5,12 +5,7 @@ import clsx from 'clsx'
 import { Card } from '@/components/Card'
 import { Button } from '@/components/Button'
 import { Container } from '@/components/Container'
-import {
-  GitHubIcon,
-  InstagramIcon,
-  LinkedInIcon,
-  XIcon,
-} from '@/components/SocialIcons'
+import { GitHubIcon, LinkedInIcon } from '@/components/SocialIcons'
 
 import image1 from '@/images/photos/image1.jpg'
 import image2 from '@/images/photos/image2.jpg'
